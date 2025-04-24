@@ -1,8 +1,6 @@
-<h1 align="center">Hey there! I'm [Your Name] 👋</h1>
+<h1 align="center">Hey there! I'm Rishitha M 👋</h1>
 
-<p align="center">
-  <img src="" width="200" />
-</p>
+
 
 <p align="center">
   🚀 Full Stack Developer | 💡 MERN Stack Enthusiast | 🎯 Building Scalable Web Applications
