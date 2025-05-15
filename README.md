@@ -1,4 +1,6 @@
-<h1 align="center">Hey there! I'm Rishitha M 👋</h1>
+<p align="right">
+  <img src="" alt="Rishitha M" width="150" style="border-radius:50%" />
+</p>
 
 
 
@@ -34,18 +36,16 @@
 
 ### 🔥 My Projects
 
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| 📝 **Task Manager App** | React, Node.js, MongoDB, Express | A full-stack task tracking app with JWT authentication |
-| 📦 **E-commerce Store** | MERN, Redux, Stripe | A fully functional shopping site with product management and payments |
+| Project               | Tech Stack                   | Description                                    | GitHub Link                                                    |
+|-----------------------|------------------------------|------------------------------------------------|----------------------------------------------------------------|
+| 📝 **Task Manager App** | React, Node.js, MongoDB, Express | A full-stack task tracking app with JWT authentication | [View Repo](https://github.com/Rishitha0320/task-manager)     |
+| 📦 **E-commerce Store** | MERN, Redux, Stripe          | A fully functional shopping site with product management and payments | [View Repo](https://github.com/Rishitha0320/e-commerce-project) |
 
 ---
 
 ### 📫 Let's Connect
 
-- 📧 Email: rishithamagesh@gmail.com
-- 💼 LinkedIn:http://www.linkedin.com/in/rishitha-m
-
+- 📧 Email: rishitha.m2022cse@sece.ac.in  
+- 💼 LinkedIn: [linkedin.com/in/rishitha-m](http://www.linkedin.com/in/rishitha-m)
 
 > 👀 I'm actively seeking full-time roles as a Full Stack Developer. Let's build the future together!
-
