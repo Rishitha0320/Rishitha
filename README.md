@@ -1,8 +1,8 @@
 <p align="right">
-  <img src="" alt="Rishitha M" width="150" style="border-radius:50%" />
+<!--   <img src="profile.jpg" alt="Rishitha M" width="150" style="border-radius:50%" /> -->
 </p>
 
-
+<h1 align="center">Hey there! I'm Rishitha M 👋</h1>
 
 <p align="center">
   🚀 Full Stack Developer | 💡 MERN Stack Enthusiast | 🎯 Building Scalable Web Applications
@@ -23,13 +23,13 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://cloudmatetechnologies.com/wp-content/uploads/2024/06/react.js.png" alt="React" height="40" style="margin-right:10px;" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4N-tL_T2jXp9nsyC0SlzFe_EFsyPBxEDYNA&s" alt="Node.js" height="40" style="margin-right:10px;" />
+  <img src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo-thumbnail.png" alt="Express" height="40" style="margin-right:10px;" />
+  <img src="https://images.icon-icons.com/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" height="40" style="margin-right:10px;" />
+  <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" alt="JavaScript" height="40" style="margin-right:10px;" />
+  <img src="https://billing.flourisense.in/wp-content/uploads/2022/11/css3.png" alt="CSS3" height="40" style="margin-right:10px;" />
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="40" style="margin-right:10px;" />
 </p>
 
 ---
